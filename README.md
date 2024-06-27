@@ -9,7 +9,7 @@ It leverages unique pointers for safe and efficient memory handling. Tasks, defi
 3. Task management system using a queue for sequential processing.
 4. Integration with external libraries for enhanced functionality.
 
-# Installation:
-1. ''' git clone https://github.com/suryansh-2003/Encryptify.git
-   '''
-3. ''' cd Encryptify '''
+# Dependancies:
+1. C++11 or higher.
+2. 'make'
+3. g++
